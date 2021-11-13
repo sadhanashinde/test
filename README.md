@@ -1,2 +1,2 @@
 # test
-test repo
+test repositary gets command demonstration
